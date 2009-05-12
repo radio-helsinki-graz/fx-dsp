@@ -1,0 +1,17 @@
+*.CS_
+*.cdb
+*.paf2
+*.pjt
+*.sbl
+*.tcf*
+*.tco
+AxumFX1cfg.cmd
+AxumFX1cfg.h
+*.h62
+*.s62
+AxumFX1cfg_c.c
+AxumFX1g*
+*.lkf
+Debug/Axum*
+Debug/hex.map
+*.log
